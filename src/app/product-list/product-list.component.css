@@ -1,0 +1,45 @@
+#id1{
+    padding-top: 20px;
+}
+.head{
+    color: rgb(235, 19, 19);
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+#trms{
+    color: white;
+    text-align: justify; 
+    padding-left: 100px;
+    text-decoration: underline;
+}
+
+#card-title{
+    color: rgb(235, 22, 22);
+}
+
+#help{
+    background-color: black;
+}
+#crdtle{
+    padding-left: 55px;
+}
+
+#im{
+    background-image: url("src/assets/images/sampl.jpg");
+    background-repeat: no-repeat;
+    /* background-size: 619px; */
+    background-position-x: 50%;
+    background-position-y: 50%;
+}
+
+.ref2{
+    background-image: url("src/assets/images/im.webp");
+    background-repeat: no-repeat;
+    background-size: 1130px;
+    background-position-x: 50%;
+    background-position-y: 50%;
+}

@@ -1,0 +1,13 @@
+.header{
+    background-image: url('src\assets\images\ifg.jpg') ;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    opacity: 1;
+}
+#lnht{
+    line-height: 80%;
+}
+/* #lnheight{
+    line-height: 50%;
+} */
